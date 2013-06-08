@@ -27,7 +27,7 @@ Programmatically:
     webmake(inputPath, { ext: ['handlebars', 'otherext'] }, cb);
 
 ## How to Use the Bundled Template
-First, download the handlebars.runtime.js from https://github.com/wycats/handlebars.js/blob/master/dist/handlebars.runtime.js. Unfortunatly the current NPM package does not include the CommonJS compatible version of the runtime. 
+First, download the handlebars.runtime.js from https://github.com/wycats/handlebars.js/blob/master/dist/handlebars.runtime.js. Unfortunately the current NPM package does not include the CommonJS compatible version of the runtime. 
 
 Second, make sure the runtime file is included in your page either by using a script tag like so:
 
