@@ -1,0 +1,27 @@
+{
+  "name": "webmake-handlebars",
+  "version": "0.1.0",
+  "description": "Require Handlebars files with Webmake",
+  "keywords": [
+    "browser",
+    "browserify",
+    "bundle",
+    "cjs",
+    "commonjs",
+    "deploy",
+    "make",
+    "require",
+    "handlebars",
+    "hbs",
+    "web",
+    "webmake"
+  ],
+  "author": "Adam Daniel <adam@acdaniel.com>",
+  "dependencies": {
+    "handlebars": "~1.0.12"
+  },
+  "devDependencies": {
+    "webmake": "~0.3.16"
+  },
+  "license": "MIT"
+}
