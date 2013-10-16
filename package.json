@@ -20,8 +20,8 @@
   "dependencies": {
     "handlebars": "~1.0.12"
   },
-  "devDependencies": {
-    "webmake": "~0.3.16"
+  "peerDependencies": {
+    "webmake": "~0.3.19"
   },
   "license": "MIT"
 }
