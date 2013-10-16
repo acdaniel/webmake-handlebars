@@ -1,6 +1,6 @@
 {
   "name": "webmake-handlebars",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Require Handlebars files with Webmake",
   "keywords": [
     "browser",
@@ -20,8 +20,8 @@
   "dependencies": {
     "handlebars": "~1.0.12"
   },
-  "devDependencies": {
-    "webmake": "~0.3.16"
+  "peerDependencies": {
+    "webmake": "~0.3.19"
   },
   "license": "MIT"
 }
